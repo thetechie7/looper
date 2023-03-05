@@ -1,0 +1,4 @@
+discord-py-interactions
+aiohttp
+requests
+beautifulsoup4
